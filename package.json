@@ -97,6 +97,7 @@
     "@intlify/unplugin-vue-i18n": "^0.13.0",
     "@playwright/test": "^1.32.3",
     "@rushstack/eslint-patch": "^1.2.0",
+    "@tauri-apps/cli": "^1.5.6",
     "@tsconfig/node18": "^18.2.0",
     "@types/bcryptjs": "^2.4.2",
     "@types/crypto-js": "^4.1.1",
